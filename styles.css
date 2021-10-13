@@ -1,0 +1,28 @@
+/* Project Wide */
+@import url('https://fonts.googleapis.com/css2?family=Gluten&display=swap');
+
+body {
+  background-color: #F6C667;
+}
+
+/* Title Heading */
+h1 {
+  font-family: 'Gluten', cursive;
+  color: #280F34;
+}
+
+p {
+  font-family: 'Gluten', cursive;
+  color: #280F34;
+}
+
+
+/* Dice Image */
+img {
+  width: 75%;
+}
+
+/* Footer */
+footer {
+  font-family: 'Gluten', cursive;
+}
